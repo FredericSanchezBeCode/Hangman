@@ -15,6 +15,12 @@ let dictionnary = [
     "pluto",
     "gauffre",    
 ]
+// function letterButtons() {
+//     let buttonsHTML = 'azertyuiopqsdfghjklmwxcvbn'.split('').map(letter =>
+//       `<button class="btn btn-lg btn-dark m-2" id='`+ letter +`' onClick="handleGuess('`+ letter +`')"> ` + letter + `</button>`).join('');
+  
+//     document.getElementById('keyboard').innerHTML = buttonsHTML;
+// }
 function letterButtons() {
     let buttonsHTML = 'abcdefghijklmnopqrstuvwxyz'.split('').map(letter =>
       `<button class="btn btn-lg btn-dark m-2" id='`+ letter +`' onClick="handleGuess('`+ letter +`')"> ` + letter + `</button>`).join('');
