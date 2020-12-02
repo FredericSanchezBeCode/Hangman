@@ -1,0 +1,27 @@
+html {
+    height: 100%; /*html & body are given an height of 100% to give the linear-gradient all the space needed*/
+}
+
+body{
+    font-family: 'Rowdies', cursive;
+    background-color: goldenrod;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%; 
+    font-weight: 500;
+}
+
+h1{
+    font-weight: 900;
+    margin-top: 1.5em;
+}
+
+
+
+.spacing{
+    margin-top: 5.5em;
+}
+
+.reset{
+    color: red;
+}

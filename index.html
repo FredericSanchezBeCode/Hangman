@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rowdies&display=swap" rel="stylesheet">
+    <title>Hangman</title>
+</head>
+<body>
+
+
+  <div class="container"> 
+    
+    <h1 class="text-center">Hangman</h1>
+
+    <div class="float-right">Tentatives: <span id='mistakes'>0</span> de <span id='maxMistakes'></span></div>
+
+    <div class="text-center">
+      <img id='hangman' src="assets/images/0.png" alt="erreur d'affichage">
+      <p class="spacing">Quel est le mot caché?(tkt c'est en français ou titre de film) </p>
+      <p id="wordSpotlight" class="spacing"></p>
+      <div id="keyboard" class="spacing"></div>
+      <div class="col spacing">
+        <button class="btn btn-danger" style="margin-right: 0.75em;" onClick="reset()">Try again</button>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="assets/javascript/main.js"></script>
+
+</body>
+</html>
