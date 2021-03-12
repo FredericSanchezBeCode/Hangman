@@ -1,7 +1,7 @@
 Hangman-JS
 # Projet maison de la montagne
 
-## Génération 1: Yvan, Kultigin, Frédéric
+## Génération 1: Yvan, Kultigin, Frédéric, Dorian, Olivia
 
 ## Objectifs: 
    ### Passer de Wix (https://www.lamaisondelamontagne.be/) à Wordpress
