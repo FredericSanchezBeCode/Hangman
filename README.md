@@ -27,6 +27,6 @@ Hangman-JS
    +32 (0)67 88 36 85  
    info@lamaisondelamontagne.be
    ### Agents de liaison avec la génération 1:
-   -Pierre Noël coache BeCode Keller 2.24  
+   -Pierre Noël coach BeCode Keller 2.24  
    -Alumni
    ## Interface de travail
