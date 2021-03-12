@@ -15,14 +15,14 @@ Hangman-JS
 
    ##  -Personnes de contacts
    ### -SEO master (à contacter avant de démarrer le codage du wordpress)
-   Jean-Denis Schampaert  
+   **Jean-Denis Schampaert**  
    +32 477 53 70 94  
    +32 2 897 20 02 
    ### Responsable LMM :    
-   Sandrine Bouteille  
+   **Sandrine Bouteille**  
    Rue de l’Industrie, 20, 1400 Nivelles    
    +32 (0)67 88 36 01  
-      Hélène Papadopoulos   
+    **Hélène Papadopoulos**   
    Rue de l’industrie 20, 1400 Nivelles  
    +32 (0)67 88 36 85  
    info@lamaisondelamontagne.be
