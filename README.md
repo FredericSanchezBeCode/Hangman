@@ -22,7 +22,7 @@ Hangman-JS
    **Sandrine Bouteille**  
    Rue de l’Industrie, 20, 1400 Nivelles    
    +32 (0)67 88 36 01  
-   ### Agent de liaison LMM  
+   ### Contact de l'équipe LMM  
    **Hélène Papadopoulos**   
    Rue de l’industrie 20, 1400 Nivelles  
    +32 (0)67 88 36 85  
